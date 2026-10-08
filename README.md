@@ -2,11 +2,14 @@ minimal-wifi-stack-study
 ========================
 mac80211 or cfg80211, nl80211
 
+Use QEMU Rasp3 is enough for development environment
+
 ### Ported
 - [nxp-mcuxpresso/wpa_supplicant-rtos: WPA Supplicant & HOSTAPD](https://github.com/nxp-mcuxpresso/wpa_supplicant-rtos)
 - https://github.com/rsta2/circle/tree/master/addon/wlan/sample/hello_ap
 - https://github.com/rsta2/circle/tree/master/addon/wlan
 - https://github.com/rsta2/hostap
+- https://github.com/rsta2/circle/blob/7a81e1b480fe7d19fc1fc695b89bff0a0848f44b/addon/wlan/bcm4343.h
 
 ### Drivers
 - [**StreamUnlimited/broadcom-bcmdhd-4359**](https://github.com/StreamUnlimited/broadcom-bcmdhd-4359)
