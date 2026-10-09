@@ -11,6 +11,7 @@ Use QEMU Rasp3 is enough for development environment
 - https://github.com/rsta2/hostap
 - https://github.com/rsta2/circle/blob/7a81e1b480fe7d19fc1fc695b89bff0a0848f44b/addon/wlan/bcm4343.h
 - [MediaTek-Labs/genio-matter-bsp](https://github.com/MediaTek-Labs/genio-matter-bsp)
+   - `CFG_SUPPORT_DBDC`   
 
 ### Drivers
 - [**StreamUnlimited/broadcom-bcmdhd-4359**](https://github.com/StreamUnlimited/broadcom-bcmdhd-4359)
